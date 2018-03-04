@@ -1,0 +1,5 @@
+package com.rt.microservice.boot;
+
+public class Application {
+
+}

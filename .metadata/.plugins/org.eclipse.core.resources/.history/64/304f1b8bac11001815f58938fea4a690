@@ -1,0 +1,5 @@
+package springMVChibernate.DAO;
+
+public interface UserDA {
+
+}

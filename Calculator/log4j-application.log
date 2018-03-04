@@ -1,0 +1,16 @@
+2018-01-31 22:23:06 DEBUG CalcTest:13 - Calling Add Method 
+2018-01-31 22:23:06 DEBUG CalcTest:14 - The sum of 3and1is4
+2018-01-31 22:23:06 INFO  CalcTest:17 - Calling Subtract methood
+2018-01-31 22:23:06 INFO  CalcTest:18 - The difference of 3and1is2
+2018-01-31 22:24:25 DEBUG CalcTest:13 - Calling Add Method 
+2018-01-31 22:24:25 DEBUG CalcTest:14 - The sum of 3and1is4
+2018-01-31 22:24:25 INFO  CalcTest:17 - Calling Subtract methood
+2018-01-31 22:24:25 INFO  CalcTest:18 - The difference of 3and1is2
+2018-02-15 16:51:27 DEBUG CalcTest:13 - Calling Add Method 
+2018-02-15 16:51:27 DEBUG CalcTest:14 - The sum of 3and1is4
+2018-02-15 16:51:27 INFO  CalcTest:17 - Calling Subtract methood
+2018-02-15 16:51:27 INFO  CalcTest:18 - The difference of 3and1is2
+2018-02-16 10:52:55 DEBUG CalcTest:13 - Calling Add Method 
+2018-02-16 10:52:55 DEBUG CalcTest:14 - The sum of 3and1is4
+2018-02-16 10:52:55 INFO  CalcTest:17 - Calling Subtract methood
+2018-02-16 10:52:55 INFO  CalcTest:18 - The difference of 3and1is2

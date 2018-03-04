@@ -1,0 +1,14 @@
+package creditcard;
+
+public class ProcessPayment {
+	public static boolean processPay(int number,float amount){
+		return true;
+	}
+
+	public static void main(String[] args) {
+		int number;
+		System.out.println("Enter credit card number to process payment");
+		float amount = 500.0f;
+		processPay(number,amount);
+	}
+}

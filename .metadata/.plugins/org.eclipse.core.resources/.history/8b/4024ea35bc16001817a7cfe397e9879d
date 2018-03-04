@@ -1,0 +1,5 @@
+package com.rt.microservice.domain;
+
+public class Customer {
+
+}

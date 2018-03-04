@@ -1,0 +1,6 @@
+com\rt\microservice\domain\Customer.class
+com\rt\microservice\register\CustomerRest.class
+com\rt\microservice\boot\Application.class
+com\rt\microservice\DAO\CustomerDAO.class
+com\rt\microservice\boot\ApplicationConfig.class
+com\rt\microservice\boot\ApplicationConfig$JerseyConfig.class
