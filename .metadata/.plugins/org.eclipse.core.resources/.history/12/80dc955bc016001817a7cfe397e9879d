@@ -1,5 +1,0 @@
-package com.rt.microservice.DAO;
-
-public class CustomerDAO {
-
-}
